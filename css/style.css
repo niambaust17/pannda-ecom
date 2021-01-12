@@ -1,0 +1,30 @@
+.slide-banner .carousel-item {
+  background-color: rgba(255, 182, 193, 0.3);
+  border-radius: 0.8em;
+}
+
+.panda-card {
+  border: 0;
+}
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+}
+.category img {
+  width: 100px;
+}
+.category-info {
+  border-radius: 10px;
+}
+.category-1 {
+  background-color: goldenrod;
+}
+.category-2 {
+  background-color: hotpink;
+}
+.category-3 {
+  background-color: blue;
+}
+.subscribe {
+  border-radius: 10px;
+}
